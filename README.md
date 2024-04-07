@@ -33,7 +33,9 @@ Copyright-ProtectBot is a Telegram bot that automatically deletes all media from
 
 4. Deploy to Heroku:
 
-   [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Vishal-1756/Copyright-ProtectBot)
+   [![Deploy To Heroku](<a href="https://heroku.com/deploy?template=https://github.com/ankitkhandal74/Forward-">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>)](https://github.com/Vishal-1756/Copyright-ProtectBot)
 
 ## Note 📝
 
